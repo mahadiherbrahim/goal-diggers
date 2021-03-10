@@ -1,0 +1,23 @@
+.team{
+    margin-top: 10px;
+    margin-bottom: 20px;
+    padding: 25px;
+    border-radius: 15px;
+    transition: 0.6s;
+}
+.team:hover{
+    transform: scale(1.1);
+}
+.team h3{
+    font-weight: 700;
+    padding-top: 15px;
+}
+.team button{
+    border-radius: 5px;
+    padding: 10px 30px 10px 30px;
+    background-color: #ff2d7f;
+    border: none;
+}
+.team button:hover{
+    background-color: #a8134c;
+}
